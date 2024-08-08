@@ -1,2 +1,2 @@
-This is a public repository from which AZComplex downloads plugins.
 This repository must contain only safe, verified plugins to ensure user security.
+If you want to add a plugin here, please contact me via Tech-of-the-Absence organization profile.
