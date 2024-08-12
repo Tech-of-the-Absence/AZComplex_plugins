@@ -1,1 +1,1 @@
-A test plugin for AZComplex. Nothing special about it.
+This is a test plugin made as an example for other developers. You can also use it to learn how the plugin system works.
