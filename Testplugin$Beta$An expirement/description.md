@@ -1,0 +1,1 @@
+A test plugin made as an example for developers.
